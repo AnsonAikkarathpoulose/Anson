@@ -1,0 +1,41 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CV & Portfolio</title>
+
+  <!-- LINK PREVIEW SETTINGS -->
+  <meta property="og:title" content="CV & Portfolio – Anson Poulose" />
+  <meta property="og:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
+  <meta property="og:image" content="https://AnsonAikkarathpoulose.github.io/preview.jpg" />
+  <meta property="og:url" content="https://AnsonAikkarathpoulose.github.io/" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    img {
+      max-width: 90%;
+      border-radius: 10px;
+    }
+    .message {
+      margin-top: 30px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+
+<body>
+  <img src="preview.jpg" alt="Preview Image">
+
+  <div class="message">
+    <p>
+      I saw your LinkedIn post. Due to ATS, I couldn’t reach properly.  
+      <br>
+      Could you please check my CV and portfolio?
+    </p>
+  </div>
+</body>
+</html>
