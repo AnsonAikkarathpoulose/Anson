@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <title>My CV & Portfolio – Anson Poulose</title>
 
-  <!-- LINK PREVIEW SETTINGS (Open Graph) -->
+  <!-- Open Graph Meta Tags for social media preview -->
   <meta property="og:title" content="CV & Portfolio – Anson Poulose" />
   <meta property="og:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
   <meta property="og:image" content="https://ansonaikkarathpoulose.github.io/Anson/Github-preview-test.png" />
   <meta property="og:url" content="https://ansonaikkarathpoulose.github.io/Anson/" />
   <meta property="og:type" content="website" />
 
-  <!-- OPTIONAL: Twitter Card -->
+  <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="CV & Portfolio – Anson Poulose" />
   <meta name="twitter:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
